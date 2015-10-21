@@ -1,0 +1,23 @@
+name: etc
+favicon: null
+layout_spectrum: 0.08642844622954726
+typography_spectrum: 0.020763595355674624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.22457732330076396
+  lightness: 0.8987817561719567
+  saturation: 0.5952032927889377
+  rhythmicContrast: 0.9961722360458225
+purpose: []

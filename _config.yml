@@ -1,6 +1,6 @@
 name: etc
 favicon: null
-layout_spectrum: 0.08642844622954726
+layout_spectrum: 1
 typography_spectrum: 0.020763595355674624
 title: etc - interactive opus
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.22457732330076396
+  brandStrength: 0.5
   lightness: 0.8987817561719567
   saturation: 0.5952032927889377
   rhythmicContrast: 0.9961722360458225

@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[etc - interactive opus]]></title>
         <description><![CDATA[etc - interactive opus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/etc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 00:46:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 22 Oct 2015 00:49:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/etc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[etc - interactive opus]]></title>
             <description><![CDATA[<article><h1>etc - interactive opus</h1><p>Progressive Digital Architects</p></article>]]></description>
-            <link>undefinedetc-interactive-opus/index.html</link>
+            <link>https://thegrid.ai/etc/etc-interactive-opus/index.html</link>
             <guid isPermaLink="false">6a543efe-2f62-4c96-b0e5-31d9eff6ac3c</guid>
             <pubDate>Thu, 22 Oct 2015 00:45:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[etc - interactive opus]]></title>
+            <description><![CDATA[<article><h1>etc - interactive opus</h1><p>Progressive Digital Architects</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be45cc0a-b6ef-4cc5-bd66-7f96fd5c8429.png"></article>]]></description>
+            <link>https://thegrid.ai/etc/etc-interactive-opus/index.html</link>
+            <guid isPermaLink="false">676e2a54-43bd-4f96-87f3-c5156a639205</guid>
+            <pubDate>Thu, 22 Oct 2015 00:49:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
